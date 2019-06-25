@@ -13,5 +13,5 @@ https://github.com/robvcc/gym-gazebo (gym->gazebo)
           
 
 # DRL最前沿
-https://mp.weixin.qq.com/s/GyWwy-AvNvLjwLc-dmudUQ 深度强化学习一定要用到奖励工程吗？伯克利 AI 研究院：并不需要
+https://mp.weixin.qq.com/s/GyWwy-AvNvLjwLc-dmudUQ 深度强化学习一定要用到奖励工程吗？并不需要
 https://mp.weixin.qq.com/s/3TFQR2uVtTwFddKf6S9SnA DeepMind 在多智能体强化学习方面又有了新进展，最新成果登上 Science 杂志！
