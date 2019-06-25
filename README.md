@@ -4,6 +4,9 @@ https://robot.ofweek.com/2017-07/ART-8321202-8300-30155665.html 视觉与触觉�
 http://www.kuangbolvshi.com/xinkukeji/20190421/391.html CoRo实验室：机器人智能触觉技术研究
 https://mp.weixin.qq.com/s/khAP4-wcgVKJrFVHDfIJQQ  东京大学机械手高速接住棉花糖；高速主动视觉传感器；高速高精度位置传感器
 
+# Simulator 
+https://leggedrobotics.github.io/SimBenchmark/about/sims.html  Physics engine: RaiSim vs. Bullet vs. ODE vs. MuJoCo vs. DartSim
+
 
 # Yumi gym gazebo
 https://github.com/robvcc/open-ai-yumi (gym yumi)
@@ -11,6 +14,9 @@ https://discourse.ros.org/t/using-reinforcement-learning-to-perform-motion-plann
 https://robosamir.github.io/DDPG-on-a-Real-Robot/ （gazebo yumi）
 https://github.com/robvcc/gym-gazebo (gym->gazebo)
           
+
+
+
 
 # DRL最前沿
 https://mp.weixin.qq.com/s/GyWwy-AvNvLjwLc-dmudUQ 深度强化学习一定要用到奖励工程吗？并不需要
