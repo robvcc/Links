@@ -26,3 +26,5 @@ https://mp.weixin.qq.com/s/3TFQR2uVtTwFddKf6S9SnA DeepMind 在多智能体强化
 
 # 软件
 https://blog.csdn.net/gsls200808/article/details/84311845 windows连接ubuntu18.04VNC远程配置
+http://www.inoteexpress.com/aegean/ 文献管理NoteExpress
+https://www.onenote.com/download 笔记记录微软OneNote
