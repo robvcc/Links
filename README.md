@@ -1,3 +1,9 @@
+# OpenAI-ROS
+https://bitbucket.org/theconstructcore/openai_ros/src/master/openai_ros/ openai_ros
+https://www.youtube.com/watch?time_continue=179&v=mwGj1rjVtw4 [ROS Projects] Use OpenAI_ROS with Turtlebot2 Step by Step - Part 1
+https://www.youtube.com/watch?v=VBPQRGPqd9I  [ROS Projects] - Use OpenAI_ROS with Turtlebot2 Step by Step - Part 2
+https://www.youtube.com/watch?v=9K3lwzpYi9I  [ROS Projects] - Use OpenAI_ROS with Turtlebot2 Step by Step - UPDATE
+
 # 机器人视觉&触觉结合
 https://www.ednchina.com/news/201608110801.html 触觉智能在机器人抓物中扮演了什么角色？ 
 https://robot.ofweek.com/2017-07/ART-8321202-8300-30155665.html 视觉与触觉相结合 新一代工业机器人诞生
@@ -14,9 +20,6 @@ https://discourse.ros.org/t/using-reinforcement-learning-to-perform-motion-plann
 https://robosamir.github.io/DDPG-on-a-Real-Robot/ （gazebo yumi）
 https://github.com/robvcc/gym-gazebo (gym->gazebo)
           
-
-
-
 
 # DRL最前沿
 https://mp.weixin.qq.com/s/GyWwy-AvNvLjwLc-dmudUQ 深度强化学习一定要用到奖励工程吗？并不需要
