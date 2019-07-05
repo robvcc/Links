@@ -4,6 +4,7 @@ https://bitbucket.org/theconstructcore/openai_ros/src/master/openai_ros/ openai_
 https://www.youtube.com/watch?time_continue=179&v=mwGj1rjVtw4 [ROS Projects] Use OpenAI_ROS with Turtlebot2 P1
 https://www.youtube.com/watch?v=VBPQRGPqd9I  [ROS Projects] - Use OpenAI_ROS with Turtlebot2 P2
 https://www.youtube.com/watch?v=9K3lwzpYi9I  [ROS Projects] - Use OpenAI_ROS with Turtlebot2 P3
+https://github.com/robvcc/gym-gazebo2  Gym-gazebo2
 
 # 机器人视觉&触觉结合
 https://www.ednchina.com/news/201608110801.html 触觉智能在机器人抓物中扮演了什么角色？ 
