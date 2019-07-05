@@ -1,4 +1,5 @@
 # OpenAI-ROS
+http://wiki.ros.org/openai_ros  WIKIROS
 https://bitbucket.org/theconstructcore/openai_ros/src/master/openai_ros/ openai_ros   
 https://www.youtube.com/watch?time_continue=179&v=mwGj1rjVtw4 [ROS Projects] Use OpenAI_ROS with Turtlebot2 P1
 https://www.youtube.com/watch?v=VBPQRGPqd9I  [ROS Projects] - Use OpenAI_ROS with Turtlebot2 P2
