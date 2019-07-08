@@ -1,3 +1,6 @@
+# 燕山大学
+Path Planning of Humanoid Arm Based on Deep Deterministic Policy Gradient
+
 # OpenAI-ROS
 http://wiki.ros.org/openai_ros  WIKIROS OpenAI-ROS
 https://bitbucket.org/theconstructcore/openai_ros/src/master/openai_ros/ openai_ros   
