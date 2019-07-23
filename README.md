@@ -35,4 +35,5 @@ http://www.inoteexpress.com/aegean/ 文献管理 NoteExpress
 
 https://www.onenote.com/download 笔记 微软OneNote
 
-
+# Others
+https://www.bilibili.com/video/av14097483/?p=9 大学
