@@ -1,7 +1,10 @@
 # 软件&技巧
-https://scholar.google.com.hk/scholar?hl=en&as_sdt=0%2C5&q=manipulator+obstacle+avoidance&btnG= 文献搜索google scholar!!(例manipulator obstacle avoidance; mujoco cloth, etc)
+
+文献搜索google+google scholar!!
+https://scholar.google.com.hk/scholar?hl=en&as_sdt=0%2C5&q=manipulator+obstacle+avoidance&btnG= (例manipulator obstacle avoidance; mujoco cloth, etc)
 https://blog.csdn.net/gsls200808/article/details/84311845 windows连接ubuntu18.04VNC远程配置
 http://www.inoteexpress.com/aegean/ 文献管理 NoteExpress 
+
 https://www.onenote.com/download 笔记 微软OneNote
 
 # Robotics Libraries
