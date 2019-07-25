@@ -1,3 +1,9 @@
+# 软件&技巧
+https://scholar.google.com.hk/scholar?hl=en&as_sdt=0%2C5&q=manipulator+obstacle+avoidance&btnG= 文献搜索google scholar!!(例manipulator obstacle avoidance; mujoco cloth, etc)
+https://blog.csdn.net/gsls200808/article/details/84311845 windows连接ubuntu18.04VNC远程配置
+http://www.inoteexpress.com/aegean/ 文献管理 NoteExpress 
+https://www.onenote.com/download 笔记 微软OneNote
+
 # Robotics Libraries
 http://jslee02.github.io/awesome-robotics-libraries/#table-of-contents 较全的机器人tool链接
 
@@ -30,13 +36,6 @@ https://github.com/robvcc/gym-gazebo (gym->gazebo)
 https://mp.weixin.qq.com/s/GyWwy-AvNvLjwLc-dmudUQ 深度强化学习一定要用到奖励工程吗？并不需要
 https://mp.weixin.qq.com/s/3TFQR2uVtTwFddKf6S9SnA DeepMind 在多智能体强化学习方面又有了新进展，最新成果登上 Science 杂志！
 
-
-
-# 软件
-https://blog.csdn.net/gsls200808/article/details/84311845 windows连接ubuntu18.04VNC远程配置
-http://www.inoteexpress.com/aegean/ 文献管理 NoteExpress 
-
-https://www.onenote.com/download 笔记 微软OneNote
 
 # Others
 https://www.bilibili.com/video/av14097483/?p=9 大学
