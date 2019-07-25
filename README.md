@@ -2,6 +2,7 @@
 
 文献搜索google+google scholar!!
 https://scholar.google.com.hk/scholar?hl=en&as_sdt=0%2C5&q=manipulator+obstacle+avoidance&btnG= (例manipulator obstacle avoidance; mujoco cloth, etc)
+
 https://blog.csdn.net/gsls200808/article/details/84311845 windows连接ubuntu18.04VNC远程配置
 http://www.inoteexpress.com/aegean/ 文献管理 NoteExpress 
 
