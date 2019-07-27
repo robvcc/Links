@@ -1,5 +1,6 @@
 # 强化学习算法博客、专栏
 https://zhuanlan.zhihu.com/p/37331693 基于模型的强化学习
+https://zhuanlan.zhihu.com/p/51025305 基于视觉的移动机器人避障
 
 
 # 软件&技巧
