@@ -1,3 +1,7 @@
+# 强化学习算法博客、专栏
+https://zhuanlan.zhihu.com/p/37331693 基于模型的强化学习
+
+
 # 软件&技巧
 
 文献搜索google+google scholar!!
